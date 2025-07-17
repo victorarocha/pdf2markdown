@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="PDF to Markdown Logo" width="150">
+  <img src="assets/pdf2markdown_logo.png" alt="PDF to Markdown Logo" width="150">
 </p>
 
 # 📝 PDF to Markdown Converter
