@@ -37,9 +37,6 @@ def pdf_to_markdown(pdf_path):
     md_text = pymupdf4llm.to_markdown(pdf_path)
     return md_text
 
-
-# now work with the markdown text, e.g. store as a UTF8-encoded file
-
 def main():
     if len(sys.argv) < 3:
         print("Usage: python pdf2md.py <input_folder> <output_folder>")
