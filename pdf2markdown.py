@@ -23,9 +23,6 @@ Usage:
 Dependencies:
     - pymupdf4llm
     - Python standard libraries: sys, os, pathlib
-
-# Author: Victor A. Rocha
-# Email: [victor.arocha@gmail.com]
 """
 import sys
 import os
