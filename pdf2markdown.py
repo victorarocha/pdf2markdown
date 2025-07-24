@@ -31,7 +31,7 @@ import pathlib
 
 
 def pdf_to_markdown(pdf_path):
-    md_text = pymupdf4llm.to_markdown(pdf_path)
+    md_text = pymupdf4llm.to_markdown(pdf_path, margins=(70,70))
     return md_text
 
 def main():
